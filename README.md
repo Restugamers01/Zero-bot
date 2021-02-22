@@ -41,6 +41,6 @@
 ##### Powered By : [`XTEAM`](https://api.xteam.xyz)
 
 ### Thanks To 
-[`@Norutumo`](https://github.com/Norutomo)
+[`@Nurutomo`](https://github.com/Nurutomo)
 [`@Restugamers01`](https://github.com/Restugamers01)
 [`@BochilGaming`](https://github.com/BochilGaming)
