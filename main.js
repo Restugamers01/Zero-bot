@@ -206,9 +206,6 @@ conn.handler = async function (m) {
           fail('unreg', m, this)
           continue
         }
-        if (global.DATABASE._data.users[m.sender].registered = false) {
-           this.reply(m.chat, `Silahkan daftar dahulu\nKetik : ${usedPrefix}daftar`.trim(), m)
-        }
         m.isCommand = true
         let xp = 'exp' in plugin ? parseInt(plugin.exp) : 9 // XP Earning per command
         if (xp > 99) m.reply('Ngecit -_-') // Hehehe
